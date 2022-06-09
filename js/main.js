@@ -2,7 +2,7 @@ $(document).ready(function() {
   let numbers = '';
   let result = 0;
   let currentOperator = '';
-  let operator = '+';
+  let operator = '';
 
   $("#display-number").val("");
 
